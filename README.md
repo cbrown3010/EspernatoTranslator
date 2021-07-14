@@ -9,6 +9,8 @@ PyAudio
 - Creation of a Google Cloud account
 Then adding the json file and changing the environment path accordingly.
 
-Example photo: ![photo](https://i.imgur.com/JarAEyO.png)
+Example photo 1: ![photo](https://i.imgur.com/JarAEyO.png)
+Example photo 1: ![photo](https://i.imgur.com/qEGpiPK.png)
+Example photo 1: ![photo](https://i.imgur.com/OKVjL0B.jpeg)
 
 Example video: https://www.youtube.com/watch?v=HuszpMJPx1U (prototype)
