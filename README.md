@@ -1,4 +1,5 @@
-# A translator program written for use on the Raspberry Pi, works by utilizing different Google APIs, written in Python.
+# Esperanto Translator
+A translator program written for use on the Raspberry Pi, works by utilizing different Google APIs, written in Python.
 
 Several requirements are needed to execute the program
 
