@@ -10,4 +10,5 @@ PyAudio
 Then adding the json file and changing the environment path accordingly.
 
 Example photo: https://imgur.com/a/FbraWvZ
+
 Example video: https://www.youtube.com/watch?v=HuszpMJPx1U (prototype)
